@@ -1,0 +1,4 @@
+{
+    "status": "error",
+    "error": "(Request ID: Root=1-6ac912f3-3771a001621154b512839eda;f1d18500-9d38-4ee3-b880-ead5a1e56e1b)\n\nBad request:\n{'message': \"The requested model 'Qwen/Qwen2.5-7B-Instruct-1M' is not supported by any provider you have enabled.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+}

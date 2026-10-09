@@ -1,0 +1,84 @@
+{
+    "students": [
+        {
+            "name": "Aarav Sharma",
+            "roll_no": "101",
+            "attendance": {
+                "2026-10-08": true,
+                "2026-10-09": true,
+                "2026-10-10": false,
+                "2026-10-11": true,
+                "2026-10-12": true,
+                "2026-10-13": true,
+                "2026-10-14": false
+            },
+            "days_present": 5,
+            "total_days": 7,
+            "present_percentage": 71.43
+        },
+        {
+            "name": "Priya Verma",
+            "roll_no": "102",
+            "attendance": {
+                "2026-10-08": true,
+                "2026-10-09": false,
+                "2026-10-10": true,
+                "2026-10-11": true,
+                "2026-10-12": true,
+                "2026-10-13": false,
+                "2026-10-14": true
+            },
+            "days_present": 5,
+            "total_days": 7,
+            "present_percentage": 71.43
+        },
+        {
+            "name": "Rahul Kumar",
+            "roll_no": "103",
+            "attendance": {
+                "2026-10-08": true,
+                "2026-10-09": true,
+                "2026-10-10": true,
+                "2026-10-11": false,
+                "2026-10-12": true,
+                "2026-10-13": true,
+                "2026-10-14": true
+            },
+            "days_present": 6,
+            "total_days": 7,
+            "present_percentage": 85.71
+        },
+        {
+            "name": "Sneha Singh",
+            "roll_no": "104",
+            "attendance": {
+                "2026-10-08": false,
+                "2026-10-09": true,
+                "2026-10-10": true,
+                "2026-10-11": true,
+                "2026-10-12": false,
+                "2026-10-13": true,
+                "2026-10-14": true
+            },
+            "days_present": 5,
+            "total_days": 7,
+            "present_percentage": 71.43
+        },
+        {
+            "name": "Vivek Gupta",
+            "roll_no": "105",
+            "attendance": {
+                "2026-10-08": true,
+                "2026-10-09": false,
+                "2026-10-10": true,
+                "2026-10-11": true,
+                "2026-10-12": true,
+                "2026-10-13": true,
+                "2026-10-14": false
+            },
+            "days_present": 5,
+            "total_days": 7,
+            "present_percentage": 71.43
+        }
+    ]
+}
